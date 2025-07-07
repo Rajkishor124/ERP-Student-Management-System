@@ -29,13 +29,27 @@ ERP-Student-Management-System/
 
 ---
 
-## 🛠️ How to Run
+## 🔧 Tech Stack
+
+| Layer       | Tech Stack                          |
+|-------------|-------------------------------------|
+| Frontend    | React, Vite, Tailwind CSS, Axios    |
+| Backend     | Java, Spring Boot, Spring Security  |
+| Auth        | JWT with Role-based Access Control  |
+| Database    | MySQL                               |
+| Build Tool  | Maven                               |
+
+---
+
+## 🛠️ Setup Instructions
 
 ### Backend (Spring Boot)
+
 cd student-management-backend
 ./mvnw spring-boot:run
 
 ### Frontend (React)
+
 cd student-management-frontend
 npm install
 npm run dev
