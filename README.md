@@ -14,11 +14,20 @@ ERP-Student-Management-System/
 
 ## 🚀 Features
 
-- Admin Dashboard: Manage students, mark attendance, view reports
-- Student Dashboard: View attendance, profile, and notifications
-- JWT-based Login with Role-based redirection
-- Library Management System integration
-- Responsive UI with Tailwind
+### 👨‍🏫 Admin Features
+- Secure login (JWT + Spring Security)
+- Manage Students (Add, Edit, Delete)
+- Attendance marking with course & department filtering
+- View attendance reports
+- Issue and return library books
+
+### 🎓 Student Features
+- Login with credentials given by admin
+- View attendance reports
+- View profile and notifications
+- Responsive dashboard UI
+
+---
 
 ## 🛠️ How to Run
 
