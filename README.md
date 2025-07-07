@@ -60,13 +60,12 @@ Runs at http://localhost:5173 by default.
 This project is licensed under the MIT License.
 
 🙋‍♂️ Author
-Made with ❤️ by Rajkishor
+Made with ❤️ by Rajkishor Murmu
 
 GitHub: Rajkishor124
 
 LinkedIn: https://www.linkedin.com/in/rajkishor-murmu-3a3872281/
 
-Portfolio: (Optional)
 
 🌟 Support or Contribution
 If you like this project, leave a ⭐️ and consider contributing!
