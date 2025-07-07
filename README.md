@@ -72,5 +72,9 @@ Portfolio: (Optional)
 If you like this project, leave a ⭐️ and consider contributing!
 
 🔖 Tags
-spring-boot react erp-system jwt-authentication student-management vite tailwind
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white&style=flat-square)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat-square)
+
 
